@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.1a3](https://github.com/TigreGotico/ovos-stt-plugin-MyNorthAI/tree/0.1.1a3) (2025-12-19)
+
+[Full Changelog](https://github.com/TigreGotico/ovos-stt-plugin-MyNorthAI/compare/0.1.1a2...0.1.1a3)
+
+**Merged pull requests:**
+
+- Update actions/checkout action to v6 [\#4](https://github.com/TigreGotico/ovos-stt-plugin-MyNorthAI/pull/4) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dependency python to 3.14 [\#3](https://github.com/TigreGotico/ovos-stt-plugin-MyNorthAI/pull/3) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [0.1.1a2](https://github.com/TigreGotico/ovos-stt-plugin-MyNorthAI/tree/0.1.1a2) (2025-12-19)
 
 [Full Changelog](https://github.com/TigreGotico/ovos-stt-plugin-MyNorthAI/compare/0.1.1a1...0.1.1a2)
